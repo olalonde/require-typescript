@@ -1,0 +1,22 @@
+{
+  "name": "require-typescript",
+  "version": "0.0.1",
+  "description": "require('require-typescript') lets you load typescript files directly from Node.js. For example: var mymodule = require('./mymodule.ts');",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:olalonde/require-typescript.git"
+  },
+  "keywords": [
+    "require",
+    "json"
+  ],
+  "author": "Olivier Lalonde <olalonde@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "typescript": ""
+  }
+}
