@@ -17,6 +17,7 @@
   "author": "Olivier Lalonde <olalonde@gmail.com>",
   "license": "BSD",
   "dependencies": {
-    "typescript": ""
+    "typescript": "",
+    "execSync": "0.0.1"
   }
 }
