@@ -1,6 +1,6 @@
 {
   "name": "require-typescript",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "require('require-typescript') lets you load typescript files directly from Node.js. For example: var mymodule = require('./mymodule.ts');",
   "main": "index.js",
   "scripts": {
