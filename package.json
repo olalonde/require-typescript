@@ -18,6 +18,7 @@
   "license": "BSD",
   "dependencies": {
     "typescript": "",
+    "node-uuid": "",
     "execSync": "0.0.1"
   }
 }
